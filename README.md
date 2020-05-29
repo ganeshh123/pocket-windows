@@ -1,9 +1,11 @@
-# pocket-windows
+<link rel="stylesheet" type="text/css" media="all" href="http://markdowncss.github.io/modest/css/modest.css" />
+
+# Pocket Windows
 An unofficial Pocket client for Windows Desktop. Currently just an electron wrapper.
 
-![Discover](./assets/discover.png)
+![Discover](./docs/discover.png)
 
-![Read](./assets/read.png)
+![Read](./docs/read.png)
 
 
 

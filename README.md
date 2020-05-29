@@ -14,7 +14,7 @@ An unofficial [Pocket](https://getpocket.com/) client for Windows Desktop. Curre
 
 ## Building
 
-Clone the repo and open CMD inside:
+Clone the [repo](https://github.com/ganeshh123/pocket-windows) and open CMD inside:
 
 ```powershell
 npm install
@@ -26,3 +26,5 @@ npm start
 ## Download
 
 Release coming soon!
+
+<a href="https://ganeshh123.github.io">Ganesh H</a>

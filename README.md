@@ -10,3 +10,19 @@ An unofficial [Pocket](https://getpocket.com/) client for Windows Desktop. Curre
 
 
 
+------
+
+## Building
+
+Clone the repo and open CMD inside:
+
+```powershell
+npm install
+npm start
+```
+
+------
+
+## Download
+
+Release coming soon!

@@ -9,7 +9,8 @@ function createWindow () {
     height: 768,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
-    }
+    },
+    icon: './assets/pocket.ico'
   })
 
   // and load the index.html of the app.

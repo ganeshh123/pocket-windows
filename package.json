@@ -1,0 +1,20 @@
+{
+  "name": "pocket-windows",
+  "version": "1.0.0",
+  "description": "An unofficial Pocket client for Windows.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ganeshh123/pocket-windows",
+  "keywords": [
+    "Pocket",
+    "Windows",
+    "Desktop"
+  ],
+  "author": "Ganesh H",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
